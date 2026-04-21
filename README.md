@@ -3,7 +3,8 @@ A Caesar cipher CLI tool written in C++.
 
 ## Usage
 ```bash
-g++ cipher.cpp -o cipher && ./cipher
+g++ cipher.cpp -o cipher
+sudo ./cipher
 ```
 
 ## Features
