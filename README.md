@@ -12,7 +12,7 @@ sudo ./cipher
 - Option to decrypt after encryption
 - Handles upper/lowercase, leaves symbols and numbers unchanged
 
-| Column 1 | Column 2|
+| Version  | Status|
 |----------|----------|
 | v1       |    ✅    |
 | v2       | Pending  |
